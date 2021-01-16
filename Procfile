@@ -1,1 +1,1 @@
-web: gunicorn YourAppFileWithout.py:server
+web: gunicorn DataTable:server
